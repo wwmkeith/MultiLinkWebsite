@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="css">
+      h1 {
+        background-color: #03071e;
+      }
+    </style>
+    <title> wwmkeith </title>
+     <body style="background-color:#283618;">
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1 class="title">Hello World! </h1>
+      <p class="time" id="currentTime"></p>
+      <script src="script.js"></script>
+      <P class="text1"> keith for 2022 be ready and sturdy </P>
+      <a href="https://open.spotify.com/artist/6AbQI0UmiDxzXAhnjmkPeD">
+        <button class="spotifyb" type="button"> Spotify</button>
+      </a>
+  </body>
+</html>
